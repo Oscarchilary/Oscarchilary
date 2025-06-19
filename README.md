@@ -2,7 +2,7 @@
 - 👀 I’m interested in getting more jobs experience in Web development and web designs and development for both front-ends and Back-end tech engineering skills.
 - 🌱 I’m currently learning back- React and node 
 - 💞️ I’m looking to collaborate on more job opportunities and more technical skills to help make the Web and apps better for users
-- 📫 How to reach me via Email- Hilarykspy@outlook.com phone number/WhatsApp: 09167690825
+- 📫 How to reach me via Email- kspyhilary@gmail.com phone number/WhatsApp: 09167690825
 - 😄 Pronouns: ...
 - ⚡ Fun fact: resolving 
 
