@@ -10,3 +10,9 @@
 Oscarchilary/Oscarchilary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+git init
+git remote add origin <your-repo-url>
+git add .
+git commit -m "Initial commit: Modular Trading App"
+git push -u origin main
